@@ -13,3 +13,12 @@ def display_board
 
  #puts "```"
 end
+
+
+def greetingProgrammer (greeting,programming)
+
+  puts "#{greeting} are you using #{programming} to make this program"
+
+end
+
+greetingProgrammer("hello","python")
